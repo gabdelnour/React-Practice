@@ -1,5 +1,3 @@
-import { Component } from 'react'
-
 const Header = (props) => (
     <header className="top">
         <h1>
