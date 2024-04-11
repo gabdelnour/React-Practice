@@ -18,7 +18,7 @@ class Order extends Component {
                 {count}lbs {fish.name}
 
                 {formatPrice(count * fish.price)}
-            </li>)
+            </li>) 
     }
 
     render() {
